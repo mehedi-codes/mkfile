@@ -295,16 +295,6 @@ Found a bug? Have a feature request? We'd love your help!
 
 ---
 
-## 👤 Author
+## 📄 License Information
 
-Created and maintained by [mehedi-codes](https://github.com/mehedi-codes)
-
----
-
-<div align="center">
-
-**⭐ Star us on GitHub if mkfile saves you time!**
-
-[GitHub Repository](https://github.com/mehedi-codes/mkfile) • [Issues](https://github.com/mehedi-codes/mkfile/issues) • [Discussions](https://github.com/mehedi-codes/mkfile/discussions)
-
-</div>
+This project is provided as-is for community use. See the repository for more details.
