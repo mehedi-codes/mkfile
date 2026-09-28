@@ -22,8 +22,8 @@ function mkfile {
 
   if ($Info) {
     Write-Host "mkfile: A PowerShell function to create files."
-    Write-Host "Repository: https://github.com/thecodermehedi/mkfile-powershell"
-    Write-Host "Author: thecodermehedi"
+    Write-Host "Repository: https://github.com/mehedi-codes/mkfile"
+    Write-Host "Author: Mehedi Hasan"
     Write-Host "Version: v1.0.0"
     return
   }
