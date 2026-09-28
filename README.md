@@ -1,11 +1,13 @@
-# mkfile - PowerShell File Creation Tool
-
 <div align="center">
+
+![mkfile - PowerShell File Creation Tool](https://socialify.git.ci/mehedi-codes/mkfile/image?description=A%20Lightning-Fast%20PowerShell%20Function%20to%20Create%20Files%20%26%20Directories&font=Jost&forks=1&issues=1&language=1&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark)
 
 **A Lightning-Fast PowerShell Function to Create Files & Directories in Seconds**
 
 [![PowerShell](https://img.shields.io/badge/PowerShell-5.1%2B-0078D4?logo=powershell&logoColor=white)](https://microsoft.com/powershell)
 [![Windows](https://img.shields.io/badge/Windows-10%2B-0078D4?logo=windows&logoColor=white)](https://windows.microsoft.com)
+[![GitHub Stars](https://img.shields.io/github/stars/mehedi-codes/mkfile?style=flat-square)](https://github.com/mehedi-codes/mkfile)
+[![GitHub Issues](https://img.shields.io/github/issues/mehedi-codes/mkfile?style=flat-square)](https://github.com/mehedi-codes/mkfile/issues)
 
 [Installation](#installation) • [Quick Start](#quick-start) • [Features](#features) • [Examples](#examples) • [Contributing](#contributing)
 
@@ -296,12 +298,6 @@ Found a bug? Have a feature request? We'd love your help!
 ## 👤 Author
 
 Created and maintained by [mehedi-codes](https://github.com/mehedi-codes)
-
----
-
-## 📄 License Information
-
-This project is provided as-is for community use. See the repository for more details.
 
 ---
 
